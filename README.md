@@ -1,4 +1,4 @@
-# File-Sharing-Application---MERN
+# File-Sharing-Application - MERN
 
 A File Sharing Application which is made by using React Js (Frontend), Node Js (Backend), Express Js (Server) and Mongo DB (Database)
 
